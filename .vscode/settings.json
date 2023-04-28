@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.js": "javascript",
+    "_pthread_types.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
